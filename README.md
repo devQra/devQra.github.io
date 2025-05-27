@@ -2,7 +2,7 @@
 
 ### 🔗&nbsp;Link.
 
-![devqra.github.io](https://devqra.github.io/)
+[devqra.github.io](https://devqra.github.io/)
 
 ### 🚀&nbsp;Intro.
 
