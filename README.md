@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5f4b8b&text=GitFolio&height=200&animation=fadeIn&fontColor=ddd8ea)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&text=GitFolio&height=200&animation=fadeIn&fontColor=ddd8ea)
 
 ### 🔗&nbsp;Link.
 
