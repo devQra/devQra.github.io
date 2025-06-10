@@ -53,14 +53,14 @@ Error generating stack: `+l.message+`
 Python과 Arduino를 활용해 컨테이너 벨트 센서 데이터를 MQTT로 Express 서버에 전송하여
 데이터가 처음 출력되었을 때의 짜릿함이 아직도 생생합니다.
 
-제대로 구조조차 이해하던 때는 아니었지만, 무언가를 직접 만드는 것이 정말 재미있어서 개발에 빠져들었습니다. 
-본 전공과 융합전공에서 여러 프로젝트를 해보며 Javascript, Typescript, MongoDB, AWS, Linux 등 
+제대로 구조조차 이해하던 때는 아니었지만, 무언가를 직접 만드는 것이 정말 재미있어서 개발에 빠져들었습니다.
+본 전공과 융합전공에서 여러 프로젝트를 해보며 Javascript, Typescript, MongoDB, AWS, Linux 등
 Javascript Full-Stack, CI/CD, Database, OS에 대해 공부하였습니다.
 
-직접 만든 구조와 생각한 로직들이 정상적으로 작동하고, 
-혹여나 발생한 오류를 하나씩 해결하는 것에 즐거움을 느끼고 자연스럽게 개발자라는 꿈을 가지게 되었습니다. 
-이후 KDT 과정을 이수하면서 Java, Spring, Spring-Boot, Oracle/Mysql/MariaDB에 대해 학습했습니다. 
-현재, 언제든 도움이 필요한 사람에게 도움을 줄 수 있는 개발자가 되기위해 끊임없이 노력하고 있습니다. 
+직접 만든 구조와 생각한 로직들이 정상적으로 작동하고,
+혹여나 발생한 오류를 하나씩 해결하는 것에 즐거움을 느끼고 자연스럽게 개발자라는 꿈을 가지게 되었습니다.
+이후 KDT 과정을 이수하면서 Java, Spring, Spring-Boot, Oracle/Mysql/MariaDB에 대해 학습했습니다.
+현재, 언제든 도움이 필요한 사람에게 도움을 줄 수 있는 개발자가 되기위해 끊임없이 노력하고 있습니다.
 `};function X0(){return B.jsx(B.Fragment,{children:B.jsxs("div",{id:"intro",className:"flex flex-col min-w-screen min-h-screen lg:py-24 px-10 lg:px-60",children:[B.jsx("p",{className:"flex font-BH py-4 text-left text-3xl lg:text-6xl text-white text-shadow-md text-shadow-indigo-950 whitespace-pre-wrap",children:qd.title}),B.jsx("p",{className:"font-NSR py-4 px-4 lg:px-10 text-md lg:text-[1.4rem] text-left lg:whitespace-pre-wrap",children:qd.content})]})})}const Z0=[{category:"Familiar",skills:[{id:"express",name:"Express"},{id:"spring",name:"Spring"},{id:"react",name:"React.js"},{id:"koa",name:"Koa.js"},{id:"oracle",name:"Oracle"},{id:"aws",name:"AWS(EC2)"},{id:"tailwind",name:"Tailwind CSS"}]},{category:"Tried",skills:[{id:"vue",name:"Vue.js"},{id:"next",name:"Next.js"},{id:"django",name:"Django"},{id:"mongodb",name:"MongoDB"},{id:"spring-boot",name:"Spring-Boot"},{id:"sass",name:"Sass/Scss"}]},{category:"Language",skills:[{id:"javascript",name:"JavaScript"},{id:"typescript",name:"TypeScript"},{id:"java",name:"Java"},{id:"python",name:"Python"}]}];function V0(){return B.jsx(B.Fragment,{children:B.jsxs("div",{id:"skill",className:"flex flex-col min-w-screen min-h-screen p-10 lg:py-10 lg:px-40 justify-start",children:[B.jsxs("div",{className:"flex w-full",children:[B.jsx("p",{className:"flex font-BH py-4 text-left text-4xl lg:text-7xl text-orange-400 z-10",children:"Skills"}),B.jsx("p",{className:"absolute m-1.5 font-BH py-4 text-left text-4xl lg:text-7xl text-white drop-shadow-[0_4px_8px_rgba(237,179,82,100)] z-0",children:"Skills"})]}),B.jsx("div",{className:"flex flex-col lg:flex-row justify-around mt-8 gap-8 lg:gap-0 text-left",children:Z0.map((c,s)=>B.jsxs("div",{className:"flex lg:flex-col flex-wrap gap-4 lg:gap-0",children:[B.jsx("p",{className:"font-NSR text-xl lg:text-3xl font-semibold mb-4 text-left min-w-full",children:c.category}),c.skills.map(o=>B.jsxs("div",{className:"flex flex-row gap-4 mb-4 justify-center lg:justify-start lg:items-center",children:[B.jsx("div",{className:"w-12 lg:w-16 p-2 lg:p-3 rounded-xl shadow-md border border-gray-100",children:B.jsx("img",{src:`icons/skills/${o.id}.svg`,alt:`${o.name} icon`})}),B.jsx("p",{className:"font-NSR text-2xl whitespace-pre-wrap hidden lg:flex",children:o.name})]},o.id))]},s))})]})})}const K0=[{id:0,title:"SmartFactory Management System (Web/ERP)",since:"2022.03 ~ 2022.08",type:`CCIT 융합전공
 캡스톤 디자인 팀 프로젝트`,work:`PM, Backend API, Server, CI/CD,
 MQTT 연동(Arduino-AWS-API)`,stack:`Javascript(Node.js, Koa, Vue 3), MongoDB, 
